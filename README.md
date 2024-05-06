@@ -21,7 +21,7 @@ O intuito desse desafio era replicar um layout proposto pela RocketSeat.
 
 Proposta:
 <p align="center">
-  <img alt="Proposta do projeto" src="imgs/project.png" width="100%">
+  <img alt="Proposta do projeto" src="assets/project.png" width="100%">
 </p>
 
 ## ✅ Resultado
